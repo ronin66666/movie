@@ -1,0 +1,5 @@
+
+
+void registerAdapters() {
+  // register adapter
+}
